@@ -1,3 +1,6 @@
+
+### 前言
+[Node.js 包教不包会](github.com/alsotang/node-lessons)
 ### 练习1 （最简单的 express 应用）
 ##### 安装 express
 ```
